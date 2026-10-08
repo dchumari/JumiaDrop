@@ -1,0 +1,46 @@
+{
+  "updated_at": 1789852076.2699666,
+  "count": 8,
+  "proxies": [
+    {
+      "proxy": "http://107.173.153.119:2080",
+      "latency_ms": 2007.7,
+      "last_checked": 1789852062.2786515
+    },
+    {
+      "proxy": "http://43.163.7.224:8081",
+      "latency_ms": 2263.3,
+      "last_checked": 1789852074.5104725
+    },
+    {
+      "proxy": "socks5://45.74.31.50:13413",
+      "latency_ms": 3363.7,
+      "last_checked": 1789852031.4526577
+    },
+    {
+      "proxy": "socks4://47.237.2.245:1081",
+      "latency_ms": 3622.1,
+      "last_checked": 1789852043.7588851
+    },
+    {
+      "proxy": "socks4://8.212.151.166:45",
+      "latency_ms": 3668.5,
+      "last_checked": 1789852047.940592
+    },
+    {
+      "proxy": "socks4://39.102.209.121:8081",
+      "latency_ms": 3691.3,
+      "last_checked": 1789852055.8695638
+    },
+    {
+      "proxy": "socks4://39.102.213.187:5060",
+      "latency_ms": 3693.5,
+      "last_checked": 1789852047.8483415
+    },
+    {
+      "proxy": "http://67.215.226.71:999",
+      "latency_ms": 3771.6,
+      "last_checked": 1789852055.9560037
+    }
+  ]
+}
